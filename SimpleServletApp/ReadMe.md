@@ -20,7 +20,7 @@
 ### 2. Using GitHub for Version Control
 
 1. **Repository Setup**:
-   - Created repo: 
+   - Created repo: https://github.com/samruddhi1499/SimpleServletApp.git
 
 3. **Branching**:
    - Created a branch named `feature-servlet`.
