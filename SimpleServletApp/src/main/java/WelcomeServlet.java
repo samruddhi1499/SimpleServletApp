@@ -6,7 +6,7 @@ import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 import java.io.PrintWriter;
 
-@WebServlet
+@WebServlet("/welcome")
 public class WelcomeServlet extends HttpServlet {
     
     @Override
@@ -15,7 +15,7 @@ public class WelcomeServlet extends HttpServlet {
         response.setContentType("text/html");
         PrintWriter out = response.getWriter();
         out.println("<html><body>");
-        out.println("<h1>Welcome to J2EE Web Components Lab</h1>");
+        out.println("<h1>Welcome to New Branch feature-servlet</h1>");
         out.println("</body></html>");
     }
 }
