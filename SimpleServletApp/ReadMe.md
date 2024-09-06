@@ -21,8 +21,10 @@
 
 1. **Repository Setup**:
    - Created repo: https://github.com/samruddhi1499/SimpleServletApp.git
+   - Pushed the code on the main branch.
 
 3. **Branching**:
    - Created a branch named `feature-servlet`.
+   - Modified the Welcome message.
    - Pushed the changes to the new branch.
 
